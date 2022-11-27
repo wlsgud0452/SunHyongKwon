@@ -1,30 +1,87 @@
-<h1 align="center">Hi 👋, I'm SunHyong Kwon</h1>
-<h3 align="center">A passionate backend developer from South Korea</h3>
+<h1 align="center"><b>Hi , I'm Sun Hyong Kwon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunhyongkwon&label=Profile%20views&color=0e75b6&style=flat" alt="sunhyongkwon" /> </p>
+<a href="https://neuroo.notion.site"><img src="https://img.shields.io/badge/My%20Notion%20Link-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 📝 I regularly write articles on [neuroo.notion.site](https://neuroo.notion.site)
-
-- 📫 How to reach me **mikekwon42@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pepper.pic_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepper.pic_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunhyongkwon&show_icons=true&locale=en&layout=compact" alt="sunhyongkwon" /></p>
-
-<br>
+ - Participate Project
+   - WEB
+     - [Petmily Project in JSP](https://github.com/SunHyongKwon/Petmily)
+     - [Petmily Project in Spring Boot](https://github.com/wlsgud0452/petmily_spring)
+   - Window Builder
+     - [Petmily Project](https://github.com/SunHyongKwon/Noon)
+     
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunhyongkwon&show_icons=true&locale=en" alt="sunhyongkwon" /></p>
+- License
+   - SQLD (Structured Query Language Developer)
+   
+   
+<br>
+
+- Education
+   
+|PERIOD|SCHOOL|MAJOR|DEGREE|
+|------|------|------|------|
+|2014-2021|University of Seoul|Department of Electrical and Computer Engineering|Bachelor|
 
 <br>
+
+- Extra Activity
+
+|PERIOD|GROUP NAME|DESCRIPTION|
+|------|------|------|
+|2014|UOS festival planning team|participate in planning univiersity festival|
+|2014|UOS student union|perform a role about facility management and event management|
+|2018|The sound of dawn(Band club)|perform a role as a club president|
+|2020 - present|Nout(Band club)|perform a role as a club president|
+
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunhyongkwon&" alt="sunhyongkwon" /></p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<p align="center">
+
+- **Languages**:
+
+  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
+  
+- **Databases**:
+
+  ![mySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=for-the-badge&logo=mySQL&logoColor=white)
+  
+- **Framework**:
+
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+  
+- **Version Control Software Tools**:
+
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+  
+- **Online Platform**:
+
+  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=Miro&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+  ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=for-the-badge&logo=Google%20Docs&logoColor=white)
+  
+- **IDE**:
+
+  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+  ![MySQL Workbech](https://img.shields.io/badge/mySQL%20Workbench-4479A1.svg?&style=for-the-badge&logo=mySQL%20Workbench&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white)
+  ![Fork](https://img.shields.io/badge/Fork-75AADB.svg?&style=for-the-badge&logo=Fork&logoColor=white)
+  
+- **Front-end Development**:
+
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white)
+  
+- **Front-end Toolkit**:
+
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
+ 
