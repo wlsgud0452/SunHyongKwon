@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hi , I'm Sun Hyong Kwon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://neuroo.notion.site"><img src="https://img.shields.io/badge/My%20Notion%20Link-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<br>
+
+<p align="center">
+<a href="https://neuroo.notion.site"><img src="https://img.shields.io/badge/My%20Notion%20Link-000000?style=Plastic&labelColor=fef06a&color=fef06a&logo=Notion&logoColor=white" width="150" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SunHyongKwon"><img src="https://img.shields.io/badge/My%20Github%20Link-181717?style=Plastic&labelColor=000000&color=000000&logo=GitHub&logoColor=white" width="150" height="60"/></a>
+</p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -85,3 +89,9 @@
 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunHyongKwon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SunHyongKwon&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
+<br><br><br><br><br>
