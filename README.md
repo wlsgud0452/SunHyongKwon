@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=e5d3fa4&height=300&section=header&text=SunHyong Kwon&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Alissa Yoon&fontSize=70" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHyongKwon&layout=compact)](https://github.com/SunHyongKwon/github-readme-stats)
