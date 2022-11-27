@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunhyongkwon" alt="sunhyongkwon" /></a> </p>
 
-- 📝 I regularly write articles on [neuroo.notion.site](neuroo.notion.site)
+- 📝 I regularly write articles on [neuroo.notion.site](https://neuroo.notion.site)
 
 - 📫 How to reach me **mikekwon42@gmail.com**
 
