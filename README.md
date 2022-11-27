@@ -92,6 +92,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunHyongKwon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="250"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SunHyongKwon&show_icons=true&locale=en&theme=chartreuse-dark" width="250" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunHyongKwon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="350" height="300"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SunHyongKwon&show_icons=true&locale=en&theme=chartreuse-dark" width="350" height="300"/></p>
 <br><br><br><br><br>
