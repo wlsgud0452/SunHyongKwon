@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=200&section=header&text=SunHyong%20Kwon&animation=fadeIn&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,50:FBD786,100:f7797d&height=200&section=header&text=SunHyong%20Kwon&animation=fadeIn&fontSize=60)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHyongKwon&layout=compact)](https://github.com/SunHyongKwon/github-readme-stats)
 
