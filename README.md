@@ -13,7 +13,7 @@
      - [Petmily Project in JSP](https://github.com/SunHyongKwon/Petmily)
      - [Petmily Project in Spring Boot](https://github.com/wlsgud0452/petmily_spring)
    - Window Builder
-     - [Petmily Project](https://github.com/SunHyongKwon/Noon)
+     - [Noon Project](https://github.com/SunHyongKwon/Noon)
      
 <br>
 
