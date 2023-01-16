@@ -9,6 +9,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
  - Participate Project
+   - App
+     - [Somsomhouse](https://github.com/SunHyongKwon/SomSomHouse)
    - WEB
      - [Petmily Project in JSP](https://github.com/SunHyongKwon/Petmily)
      - [Petmily Project in Spring Boot](https://github.com/wlsgud0452/petmily_spring)
